@@ -1,4 +1,4 @@
-# FluctSDK-Unity
+# GoogleMobileAdsMediationFluct-Unity
 
 ## ドキュメント
 
