@@ -6,6 +6,10 @@
 
 ## Release Note
 
+### 2020/07/03
+
+* Android向けの動画インタースティシャルmoduleを追加
+
 ### 2020/07/02
 
 * [Android向けSDKを更新 (v8.1.0)](https://github.com/voyagegroup/FluctSDK-Android)
