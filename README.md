@@ -6,6 +6,11 @@
 
 ## Release Note
 
+### 2020/08/24
+
+* [iOS向けSDKを更新 (v6.9.2)](https://github.com/voyagegroup/FluctSDK-iOS)
+* [Android向けSDKを更新 (v8.6.2)](https://github.com/voyagegroup/FluctSDK-Android)
+
 ### 2020/07/16
 
 * [Android向けSDKを更新 (v8.3.0)](https://github.com/voyagegroup/FluctSDK-Android)
