@@ -6,6 +6,10 @@
 
 ## Release Note
 
+### 2020/09/18
+
+* [iOS向けSDKを更新 (v6.11.3)](https://github.com/voyagegroup/FluctSDK-iOS)
+
 ### 2020/09/09
 
 * [iOS向けSDKを更新 (v6.10.0)](https://github.com/voyagegroup/FluctSDK-iOS)
